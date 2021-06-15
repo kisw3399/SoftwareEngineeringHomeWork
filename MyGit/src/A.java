@@ -4,8 +4,8 @@ public class A {
 		
 		System.out.println("I'm A");
 
-		System.out.println("Change in master branch");
 
+		System.out.println("Change in master branch");
 
 	}
 }
